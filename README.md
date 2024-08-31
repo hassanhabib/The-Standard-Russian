@@ -1,6 +1,6 @@
 # The Standard
 
-[![The Standard](https://img.shields.io/github/v/release/hassanhabib/The-Standard?style=default&label=Версия%20The%20Standard&color=2ea44f)](https://github.com/hassanhabib/The-Standard/releases/tag=latest)
+[![The Standard](https://img.shields.io/github/v/release/hassanhabib/The-Standard?filter=v2.10.3&style=default&label=Версия%20The%20Standard&color=2ea44f)](https://github.com/hassanhabib/The-Standard)
 [![The Standard Community](https://img.shields.io/discord/934130100008538142?style=default&color=%237289da&label=The%20Standard%20Сообщество&logo=Discord)](https://discord.gg/vdPZ7hS52X)
 
 Присоединяйтесь к нам в Discord:
