@@ -8,7 +8,7 @@
 [![Discord](https://discord.com/api/guilds/934130100008538142/widget.png?style=banner2)](https://discord.gg/vdPZ7hS52X)
 
 - [0 Введение](0.Введение/0.Введение.md)
-- [0.0 Теория](0.Введение/0.0 Теория.md)
+  - [0.0 Теория](https://github.com/hassanhabib/The-Standard-Russian/blob/users/ZafarUrakov/documentations-the-theory/0.%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/0.0%20%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F.md)
 
 ## Другие ресурсы
 - The Standard [YouTube Playlist](https://www.youtube.com/watch?v=8PveoymxCok&list=PLan3SCnsISTQqmSTZHQbGxBmVDwQdrlub)
