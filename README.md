@@ -8,6 +8,7 @@
 [![Discord](https://discord.com/api/guilds/934130100008538142/widget.png?style=banner2)](https://discord.gg/vdPZ7hS52X)
 
 - [0 Введение](0.Введение/0.Введение.md)
+- [0.0 Теория](0.Введение/0.0 Теория.md)
 
 ## Другие ресурсы
 - The Standard [YouTube Playlist](https://www.youtube.com/watch?v=8PveoymxCok&list=PLan3SCnsISTQqmSTZHQbGxBmVDwQdrlub)
